@@ -1,3 +1,3 @@
-# wavesplatform.com
+# nursingtokenplatform.com
 
-Waves website source code.
+Nursing Token website source code.
